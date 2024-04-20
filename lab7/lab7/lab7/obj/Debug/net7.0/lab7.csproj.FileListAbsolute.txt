@@ -1,0 +1,15 @@
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\bin\Debug\net7.0\lab7.exe
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\bin\Debug\net7.0\lab7.deps.json
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\bin\Debug\net7.0\lab7.runtimeconfig.json
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\bin\Debug\net7.0\lab7.dll
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\bin\Debug\net7.0\lab7.pdb
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\obj\Debug\net7.0\lab7.csproj.AssemblyReference.cache
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\obj\Debug\net7.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\obj\Debug\net7.0\lab7.AssemblyInfoInputs.cache
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\obj\Debug\net7.0\lab7.AssemblyInfo.cs
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\obj\Debug\net7.0\lab7.csproj.CoreCompileInputs.cache
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\obj\Debug\net7.0\lab7.dll
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\obj\Debug\net7.0\refint\lab7.dll
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\obj\Debug\net7.0\lab7.pdb
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\obj\Debug\net7.0\lab7.genruntimeconfig.cache
+D:\Repositories\platformy_technologiczne\c-sharp-labs\lab7\lab7\lab7\obj\Debug\net7.0\ref\lab7.dll
